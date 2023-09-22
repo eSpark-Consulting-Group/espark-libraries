@@ -37,7 +37,7 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=2
+CrossRefSheetStyle=1
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
@@ -63,7 +63,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EWDCRAQR
 
 [Document2]
 DocumentPath=eSpark-BeadsFilters\Bead%.SchLib
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZORJBYGD
 
 [Document3]
-DocumentPath=eSpark-Capacitors\Cap$.PcbLib
+DocumentPath=eSpark-Capacitors\Capacitor$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -97,10 +97,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ITPNESTB
 
 [Document4]
-DocumentPath=eSpark-Capacitors\Cap%.SchLib
+DocumentPath=eSpark-Capacitors\Capacitor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PZUSLQYS
 
 [Document5]
-DocumentPath=eSpark-Connectors\Conn$.PcbLib
+DocumentPath=eSpark-Connectors\Connector$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -131,10 +131,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GWKRCEJU
 
 [Document6]
-DocumentPath=eSpark-Connectors\Conn%.SchLib
+DocumentPath=eSpark-Connectors\Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,7 +151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WZOGHVEP
 
 [Document7]
-DocumentPath=eSpark-CrystalOscillators\Cry_Osi$.PcbLib
+DocumentPath=eSpark-CrystalOscillators\Crystal_Osilator$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -165,10 +165,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OVMVNPUL
 
 [Document8]
-DocumentPath=eSpark-CrystalOscillators\Crys_Osi%.SchLib
+DocumentPath=eSpark-CrystalOscillators\Crystal_Osilator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -199,7 +199,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TYCVHWLW
 
 [Document10]
 DocumentPath=eSpark-Diodes\Diode%.SchLib
@@ -267,7 +267,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QNUAUOKR
 
 [Document14]
 DocumentPath=eSpark-ICs\Ic%.SchLib
@@ -287,7 +287,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AQSIFFKZ
 
 [Document15]
-DocumentPath=eSpark-Inductors\Ind$.PcbLib
+DocumentPath=eSpark-Inductors\Inductor$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -301,10 +301,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EUADKXHI
 
 [Document16]
-DocumentPath=eSpark-Inductors\Ind%.SchLib
+DocumentPath=eSpark-Inductors\Inductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -321,7 +321,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ULRMFSTG
 
 [Document17]
-DocumentPath=eSpark-LEDs-OptoCouplers\LED-OPT$.PcbLib
+DocumentPath=eSpark-LEDs-OptoCouplers\LED-Optocupler$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -338,7 +338,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=eSpark-LEDs-OptoCouplers\LED-OPT%.SchLib
+DocumentPath=eSpark-LEDs-OptoCouplers\LED-Optocupler.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -355,7 +355,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AZQERWMK
 
 [Document19]
-DocumentPath=eSpark-MicroControllers\Mic-Con$.PcbLib
+DocumentPath=eSpark-MicroControllers\MicroController$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -372,7 +372,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document20]
-DocumentPath=eSpark-MicroControllers\Mic-Con%.SchLib
+DocumentPath=eSpark-MicroControllers\MicroController.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -420,7 +420,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EWQIKLCZ
 
 [Document23]
 DocumentPath=eSpark-Modules\Mod$.PcbLib
@@ -454,7 +454,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OLOWCRUH
 
 [Document25]
 DocumentPath=eSpark-Mosfets\Mos$.PcbLib
@@ -471,7 +471,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PHYOCFUM
 
 [Document26]
 DocumentPath=eSpark-Mosfets\Mos%.SchLib
@@ -488,7 +488,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OBOBYNMM
 
 [Document27]
 DocumentPath=eSpark-Regulators\Reg$.PcbLib
@@ -522,7 +522,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OJAUFGLT
 
 [Document29]
 DocumentPath=eSpark-Relays\Relay$.PcbLib
@@ -556,7 +556,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HYAGAMRH
 
 [Document31]
 DocumentPath=eSpark-Resistors\Res$.PcbLib
@@ -573,7 +573,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WPUVWMSS
 
 [Document32]
 DocumentPath=eSpark-Resistors\Res%.SchLib
@@ -590,7 +590,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DYEWBVXA
 
 [Document33]
 DocumentPath=eSpark-Sensors\Sens$.PcbLib
@@ -607,7 +607,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ENPOCAAK
 
 [Document34]
 DocumentPath=eSpark-Sensors\Sens%.SchLib
@@ -624,7 +624,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EKZTKWFO
 
 [Document35]
 DocumentPath=eSpark-Switches\Swi$.PcbLib
@@ -658,7 +658,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZFBRPFPF
 
 [Document37]
 DocumentPath=eSpark-Transistors\Tran$.PcbLib
@@ -692,7 +692,41 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WWBVTBUS
+
+[Document39]
+DocumentPath=eSpark-Audio\audio$.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ADBWILMH
+
+[Document40]
+DocumentPath=eSpark-Audio\audio%.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CLNTCIUE
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1696,4 +1730,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 

@@ -728,6 +728,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CLNTCIUE
 
+[Document41]
+DocumentPath=eSpark-Op Am-Comparator\Opam-Comp..$.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BLKICORD
+
+[Document42]
+DocumentPath=eSpark-Op Am-Comparator\Opam-Comp...SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ICMGJPSE
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=

@@ -335,7 +335,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YDYPPJCX
 
 [Document18]
 DocumentPath=eSpark-LEDs-OptoCouplers\LED-Optocupler.SchLib
@@ -423,7 +423,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EWQIKLCZ
 
 [Document23]
-DocumentPath=eSpark-Modules\Mod$.PcbLib
+DocumentPath=eSpark-Modules\Module$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -440,7 +440,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=eSpark-Modules\Mod%.SchLib
+DocumentPath=eSpark-Modules\Module.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -491,7 +491,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OBOBYNMM
 
 [Document27]
-DocumentPath=eSpark-Regulators\Reg$.PcbLib
+DocumentPath=eSpark-Regulators\Regulator$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -505,10 +505,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SMRJLEFV
 
 [Document28]
-DocumentPath=eSpark-Regulators\Reg%.SchLib
+DocumentPath=eSpark-Regulators\Regulator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -559,7 +559,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HYAGAMRH
 
 [Document31]
-DocumentPath=eSpark-Resistors\Res$.PcbLib
+DocumentPath=eSpark-Resistors\Resistor$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -576,7 +576,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WPUVWMSS
 
 [Document32]
-DocumentPath=eSpark-Resistors\Res%.SchLib
+DocumentPath=eSpark-Resistors\Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -593,7 +593,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DYEWBVXA
 
 [Document33]
-DocumentPath=eSpark-Sensors\Sens$.PcbLib
+DocumentPath=eSpark-Sensors\Sensor$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -610,7 +610,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ENPOCAAK
 
 [Document34]
-DocumentPath=eSpark-Sensors\Sens%.SchLib
+DocumentPath=eSpark-Sensors\Sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -627,7 +627,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EKZTKWFO
 
 [Document35]
-DocumentPath=eSpark-Switches\Swi$.PcbLib
+DocumentPath=eSpark-Switches\Switch$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -641,10 +641,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UVOBWBJC
 
 [Document36]
-DocumentPath=eSpark-Switches\Swi%.SchLib
+DocumentPath=eSpark-Switches\Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -661,7 +661,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZFBRPFPF
 
 [Document37]
-DocumentPath=eSpark-Transistors\Tran$.PcbLib
+DocumentPath=eSpark-Transistors\Transistor$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -675,10 +675,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HATETHJI
 
 [Document38]
-DocumentPath=eSpark-Transistors\Tran%.SchLib
+DocumentPath=eSpark-Transistors\Transistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=eSpark-BeadsFilters\Bead$.PcbLib
+DocumentPath=eSpark-BeadsFilters\BeadFilter$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EWDCRAQR
 
 [Document2]
-DocumentPath=eSpark-BeadsFilters\Bead%.SchLib
+DocumentPath=eSpark-BeadsFilters\BeadFilter.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -233,7 +233,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ECLMHQYN
 
 [Document12]
 DocumentPath=eSpark-Fuses\Fuse%.SchLib

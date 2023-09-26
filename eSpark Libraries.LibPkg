@@ -369,7 +369,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MWAACRXY
 
 [Document20]
 DocumentPath=eSpark-MicroControllers\MicroController.SchLib
@@ -457,7 +457,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OLOWCRUH
 
 [Document25]
-DocumentPath=eSpark-Mosfets\Mos$.PcbLib
+DocumentPath=eSpark-Mosfets\Mosfet$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -474,7 +474,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PHYOCFUM
 
 [Document26]
-DocumentPath=eSpark-Mosfets\Mos%.SchLib
+DocumentPath=eSpark-Mosfets\Mosfet.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -761,6 +761,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICMGJPSE
+
+[Document43]
+DocumentPath=eSpark-MicroProcessors\MicroProcessor$.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NQIVGWFJ
+
+[Document44]
+DocumentPath=eSpark-MicroProcessors\MicroProcessor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BUSVISAB
 
 [OutputGroup1]
 Name=Netlist Outputs

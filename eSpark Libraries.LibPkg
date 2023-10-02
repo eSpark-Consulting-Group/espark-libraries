@@ -389,7 +389,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KUFXJGMQ
 
 [Document21]
-DocumentPath=eSpark-Miscellaneous\Misc$.PcbLib
+DocumentPath=eSpark-Miscellaneous\Miscellaneous$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -406,7 +406,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=eSpark-Miscellaneous\Misc%.SchLib
+DocumentPath=eSpark-Miscellaneous\Miscellaneous.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

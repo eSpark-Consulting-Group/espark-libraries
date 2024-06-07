@@ -830,6 +830,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVRDJOPD
 
+[GeneratedDocument1]
+DocumentPath=eSpark-Connectors\Connector.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=eSpark-Connectors\Connector.rep
+DItemRevisionGUID=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=

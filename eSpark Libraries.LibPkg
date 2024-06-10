@@ -838,6 +838,14 @@ DItemRevisionGUID=
 DocumentPath=eSpark-Connectors\Connector.rep
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=eSpark-ICs\Ic%.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=eSpark-ICs\Ic%.rep
+DItemRevisionGUID=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=

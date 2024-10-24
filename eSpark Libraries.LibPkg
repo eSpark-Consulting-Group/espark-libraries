@@ -372,23 +372,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MWAACRXY
 
 [Document20]
-DocumentPath=eSpark-MicroControllers\MicroController.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KUFXJGMQ
-
-[Document21]
 DocumentPath=eSpark-Miscellaneous\Miscellaneous$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -404,6 +387,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJGTFOUJ
+
+[Document21]
+DocumentPath=eSpark-MicroControllers\MicroController.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KUFXJGMQ
 
 [Document22]
 DocumentPath=eSpark-Miscellaneous\Miscellaneous.SchLib

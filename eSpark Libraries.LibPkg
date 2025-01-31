@@ -780,23 +780,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NQIVGWFJ
 
 [Document44]
-DocumentPath=eSpark-MicroProcessors\MicroProcessor.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BUSVISAB
-
-[Document45]
 DocumentPath=eSpark-Antenna\Antenna$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -812,6 +795,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCDUDNYM
+
+[Document45]
+DocumentPath=eSpark-MicroProcessors\MicroProcessor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BUSVISAB
 
 [Document46]
 DocumentPath=eSpark-Antenna\Antenna.SchLib
